@@ -1,0 +1,8 @@
+variable=value,,,,,,,
+#Enter analsyt Name,,,,,,,
+analyst_name=JD,,,,,,,
+#Plan Geo map. Add new plan-geo combinations following this plant:'geo' format. Quotes are required! example 1015:'NAM',,,,,,,
+Geo=1012:'NAM',1098:'APLA',1015:'NAM',1025:'GCM',1042:'CAN',1060:'EUM',1080:'EMK',1087:'EMK'
+#Geo email addresses. Add new geo-email combinations following this 'geo':'email@domain.com' format. Quotes are required! example 'GCM':'abc@example.com',,,,,,,
+GeoContacts='NAM':'abc@example.com','GCM':'abc@example.com',,,,,,
+"Message=""Hello Purchasing Team(s)",\nPlease approve or reject the attached high surcharge requests. Please review the requests in the tab relevant to your geo (eg. NAM,GCM,"EUM)\n\n""",,,,
