@@ -151,7 +151,7 @@ UploadApproved(ws,'sharepoint\Dest.xlsx')
 email_contacts=[]
 for name in ws.sheetnames:
     email_contacts.append(GeoContacts[name])
-#TODO: email excel for geo approval
+#TODO: email excel for approval
 print("All done!")
 
 
